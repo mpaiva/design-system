@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E09D364B-AE55-4ACB-B65D-3A1AE0F92CFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "442E385B-FDF9-4734-85B2-3EA68AA5E47B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F81CCB00-82F3-4E43-B6A6-3555C2649F10",
+    "height": 46.27165354330709,
+    "width": 220.0000000000002,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/side-menu-featured",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA3B56CB-F212-40D7-8F3F-2EF3884A47AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED90CB27-2FEC-46A0-AC43-7AF448205DCE",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C737B250-76F8-4D90-B689-1EE46ADC759D",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

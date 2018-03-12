@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9BA1713A-F539-4F5B-8BA6-BBD70F27EBCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C48D5C97-68DC-4727-BC3B-754C967ACBF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFDC29F8-C911-4730-8D90-B6D53EE41D6A",
+    "height": 61,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/mini-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC91A18A-BB47-47BD-BA39-AFB972E8C69D_symbolID",
+      "value": "45C61480-F955-415F-B6AC-7F5E020A01B2"
+    }
+  ],
+  "overrides": {
+    "DC91A18A-BB47-47BD-BA39-AFB972E8C69D": {
+      "symbolID": "45C61480-F955-415F-B6AC-7F5E020A01B2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A6730A9-9E05-4ED6-91F1-05B744C527AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03133F10-B60E-453A-8644-7504A307E6EE",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6950296B-7165-453C-AF31-22502CB0D1D3",
+        "version": 2
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

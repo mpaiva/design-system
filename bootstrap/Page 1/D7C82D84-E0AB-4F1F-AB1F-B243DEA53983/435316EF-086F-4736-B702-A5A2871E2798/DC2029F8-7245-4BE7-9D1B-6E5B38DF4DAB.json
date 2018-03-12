@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DC2029F8-7245-4BE7-9D1B-6E5B38DF4DAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "168E8879-1EFE-4050-88B1-72157EAFC56C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D641D946-0F17-4C0D-8CE2-80B943DB6A5E",
+    "height": 18,
+    "width": 163,
+    "x": 0,
+    "y": 105
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/select/select-divider",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDF536E9-306B-41CA-BD9A-AA2AF329379A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1230F8BE-C0C5-413D-97D5-836E7794453D",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "1D635C44-9E67-412B-8C70-208FF2669F30",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

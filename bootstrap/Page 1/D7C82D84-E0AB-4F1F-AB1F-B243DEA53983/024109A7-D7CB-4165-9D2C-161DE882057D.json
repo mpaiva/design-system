@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "024109A7-D7CB-4165-9D2C-161DE882057D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2161F3DF-6FDD-45AD-83DB-3A0D49396536",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "208CC74C-258A-4F89-9A2B-594F229462F4",
+    "height": 56,
+    "width": 317,
+    "x": 2900,
+    "y": 1427
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/password",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "10078177-18E0-4131-8724-1B098D70F8D5_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BFF67E19-FFC2-46E5-AD61-1992F7CDB726_stringValue",
+      "value": "************"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECC6630-02DE-4B88-BF1D-CACBC880556D_symbolID",
+      "value": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3AA30B8B-7E97-454C-8A1C-91724B0D00E9_stringValue",
+      "value": "*"
+    }
+  ],
+  "overrides": {
+    "10078177-18E0-4131-8724-1B098D70F8D5": "Password",
+    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
+      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    "3AA30B8B-7E97-454C-8A1C-91724B0D00E9": "*",
+    "BFF67E19-FFC2-46E5-AD61-1992F7CDB726": "************"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B793DFBC-9BA6-4204-B800-AA51E1AD2FB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B74F065A-6138-48B6-8960-CCD7909796C4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6A3036FA-ED12-4667-95DD-692D3FB29614",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

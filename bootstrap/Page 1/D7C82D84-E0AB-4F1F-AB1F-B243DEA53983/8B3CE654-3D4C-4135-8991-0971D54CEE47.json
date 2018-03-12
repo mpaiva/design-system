@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B3CE654-3D4C-4135-8991-0971D54CEE47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D53576B8-2E12-4BF8-9057-9CEA90BF632D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B77CA18F-CA04-4491-9D3E-168035E593D8",
+    "height": 163,
+    "width": 300,
+    "x": 3795,
+    "y": 1456
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "textarea/label-top",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "74C75CD5-E5AE-4EDC-89B1-CFA5ACA1E16E_stringValue",
+      "value": "Textarea"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "595B4D9E-4B27-4C59-BDF5-A1C2671CD497_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "595B4D9E-4B27-4C59-BDF5-A1C2671CD497": {
+      "symbolID": ""
+    },
+    "74C75CD5-E5AE-4EDC-89B1-CFA5ACA1E16E": "Textarea"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC14AB8E-8BF8-4FA6-813A-84B4172827FC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0FA0F14-56E9-4E72-B57C-95ED9549D02C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "56A1E4A3-087B-4519-A499-4AF0F90499D6",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

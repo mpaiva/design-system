@@ -1,0 +1,98 @@
+{
+  "_class": "page",
+  "do_objectID": "7999C5F1-ED4C-46A0-80F5-32E4CB5678F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B79C124-7A7F-470A-AE99-AEDCA8EF56ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5BFEBFD-1568-4688-976C-E92CFA1CAF38"
+    },
+    {
+      "class": "text",
+      "id": "6BEDA22C-3223-4AD8-81C7-B1B804952301"
+    },
+    {
+      "class": "text",
+      "id": "59E48301-99FA-416F-8A4D-D47058A2E719"
+    },
+    {
+      "class": "text",
+      "id": "7255203B-8C96-48AA-8A79-DF80C93729A5"
+    },
+    {
+      "class": "text",
+      "id": "F64B489A-AE6B-4B0E-BDAE-2C79C0FF8632"
+    },
+    {
+      "class": "text",
+      "id": "3787C6AE-6539-428A-83FE-3386066D4084"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B004CC7E-3899-41BB-8C9A-E52B0C749305"
+    },
+    {
+      "class": "text",
+      "id": "F8A07864-EB13-4277-8DC5-1ACC9E85302C"
+    },
+    {
+      "class": "text",
+      "id": "982ADA06-5710-4FA3-B520-684294187694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "097509BF-CF33-43E6-98C4-AE9C16E8A1C6"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

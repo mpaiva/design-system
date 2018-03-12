@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8F8185C1-F1B1-4AEC-8BD8-0255BCE9E53C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE99A260-FAC9-4337-9A29-74936BE9D7E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE50A166-FA98-4631-AAB2-ED9614186E0A",
+    "height": 163,
+    "width": 163,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/select/list-bg",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0325EFDA-E663-4C64-AA70-6DA28D8AECE9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D97D882D-AD40-4D3E-A025-9CB91DD61E4E",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "73FC4712-5412-4C20-B994-3024591EFB6F",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

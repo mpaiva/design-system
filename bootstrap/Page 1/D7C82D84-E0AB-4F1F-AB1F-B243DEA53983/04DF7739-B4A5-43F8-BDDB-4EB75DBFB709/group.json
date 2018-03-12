@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "04DF7739-B4A5-43F8-BDDB-4EB75DBFB709",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84494802-2CC7-400C-8E68-7D999C432908",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DFEEB07-6BDF-4789-B33B-3D95DD63A0AF",
+    "height": 1300,
+    "width": 988,
+    "x": 358,
+    "y": 4197
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B103A3E4-56F2-432E-950A-29C7EAE2A493"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "314EA1AA-316C-4DEA-8D50-0CCF2DF02247"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FB87582-8C47-4295-8448-4ED019651BE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19B8CABC-C83C-4BA7-84B9-A326F6B07C65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA776372-144F-4B10-844D-CEC81014BE67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D6C9DDC-3A80-48C4-9423-5E2A05D4F292"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67541A47-D1F7-47D2-BEA2-21E3274EEFCD"
+    },
+    {
+      "class": "group",
+      "id": "A3C99BF9-FA88-444E-9B69-7AFA29DBD066"
+    }
+  ],
+  "name": "layout/desktop-expanded",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD033CA9-F932-422B-9985-DFFC82C04DA6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "F2ADDFC2-E0DF-463B-8DF8-735954503FDE",
+        "version": 1
+      }
+    }
+  }
+}

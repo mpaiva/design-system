@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "F6262713-C0F9-4837-B98C-1163404CD37B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1B350A1-AF28-47B8-867C-093DB73C8043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3453FB35-6D0F-4B42-B3DB-B5D6BAE712C5",
+    "height": 1300,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "110D5A5E-7241-47D1-9DA2-3339D188BB80"
+    },
+    {
+      "class": "group",
+      "id": "1AEFE0D6-20C5-4359-8937-FC1F9101325B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BA1713A-F539-4F5B-8BA6-BBD70F27EBCD"
+    }
+  ],
+  "name": "sidenav/mini-menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D3E70B8-27C2-4D7B-88AC-5170E8FBFA7B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "A1720F7E-F586-4DCB-84A5-A4F1AAC61BD9",
+        "version": 1
+      }
+    }
+  }
+}

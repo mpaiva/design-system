@@ -1,0 +1,59 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "216B38AD-6C69-480F-B172-563E2DB6AA41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDF1C0FD-1C01-4894-8FBF-B19A7FA1DD36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7847790-3307-4AA1-A2E2-D2EDFAC0AFAD",
+    "height": 128,
+    "width": 220.0000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3F9524EF-76D1-4F21-8CF9-97AF810BEBB8"
+    }
+  ],
+  "name": "Duplicate control",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10DBF31C-8200-435A-9E3A-EC92142870F0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "args": {
+        "verticalCount": 4,
+        "verticalGutter": 0
+      }
+    }
+  },
+  "windingRule": 1
+}

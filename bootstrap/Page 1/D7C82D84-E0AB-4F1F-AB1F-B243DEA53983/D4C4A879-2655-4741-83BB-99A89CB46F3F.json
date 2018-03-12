@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D4C4A879-2655-4741-83BB-99A89CB46F3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF1D792D-3D91-4CBD-9BB8-B8CDDF1C8F51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3225D8F-B0AF-4833-9AB8-2E85AC5EDF02",
+    "height": 60,
+    "width": 280,
+    "x": 1929,
+    "y": 1274
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/dropdown",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "595B4D9E-4B27-4C59-BDF5-A1C2671CD497/40DED6AD-5097-4711-BABB-B0F37EC58ED4_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E44AD543-3354-41B3-88BF-7FA05372D52C/1CB4AF99-8297-49CB-BA87-8DCA6FA07E67_stringValue",
+      "value": "Dropdown"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECC6630-02DE-4B88-BF1D-CACBC880556D_symbolID",
+      "value": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA9ABCF0-F619-4900-BCFB-AFE3FC365E06_stringValue",
+      "value": "*"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E936B7E5-424D-44C9-A153-2302D1DF399B_stringValue",
+      "value": "Select a country"
+    }
+  ],
+  "overrides": {
+    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
+      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    "595B4D9E-4B27-4C59-BDF5-A1C2671CD497": {
+      "40DED6AD-5097-4711-BABB-B0F37EC58ED4": ""
+    },
+    "CA9ABCF0-F619-4900-BCFB-AFE3FC365E06": "*",
+    "E44AD543-3354-41B3-88BF-7FA05372D52C": {
+      "1CB4AF99-8297-49CB-BA87-8DCA6FA07E67": "Dropdown"
+    },
+    "E936B7E5-424D-44C9-A153-2302D1DF399B": "Select a country"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EFDBD72-44E6-40AA-B69E-68C85450DC35",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0FA0F14-56E9-4E72-B57C-95ED9549D02C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6A3036FA-ED12-4667-95DD-692D3FB29614",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "76268199-0C7A-4EA3-9F59-8DBB9C7AE96A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBFC5F34-A1CD-4758-B5B8-FEF4670A551F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "559D7454-F3D6-4B08-8470-5F42B8F518C5",
+    "height": 1300,
+    "width": 376,
+    "x": 3650,
+    "y": 4191
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "055B87DA-82CC-4F71-9DEE-C6FF7F620B7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C587782-FC4B-47A1-A997-1BF9C6A14A3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AEE3710-7999-40DC-8684-FE135BC7CE3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCBC0CCD-DF13-4820-9603-177C61286B18"
+    }
+  ],
+  "name": "layout/phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74D4C56C-90FC-4773-BC53-143A7D0D3419",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C4D4FB8C-E060-4540-AD0B-C1400F28610A",
+        "version": 1
+      }
+    }
+  }
+}

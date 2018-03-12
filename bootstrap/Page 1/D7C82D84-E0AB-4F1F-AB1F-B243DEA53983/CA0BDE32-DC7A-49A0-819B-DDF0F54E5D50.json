@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA0BDE32-DC7A-49A0-819B-DDF0F54E5D50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35353E2D-E96B-4615-B44F-CA27F6DB4BD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "654495D5-C19F-4CD3-AF6E-538FCFECC5EF",
+    "height": 34,
+    "width": 280,
+    "x": 1991,
+    "y": 716
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/input/warning",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19F9FFF1-567D-4FB7-95EB-838C1EF5997B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1DC2F1E-7A8A-4757-B26B-A09EF75BA4D5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "2D0B7324-FE7A-4821-ABC9-E20798AE9438",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

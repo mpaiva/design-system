@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C37C0A77-5B4E-4A06-98F7-A6170A66B180",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4ED006FD-739C-4543-9B11-33DA23AA58EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6B5CF2E-FF71-4AFD-9B15-5FC04F6AFDC3",
+    "height": 46.27165354330709,
+    "width": 220.0000000000002,
+    "x": 0,
+    "y": 46.27165354330691
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/side-menu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F49660AF-C6CD-4A0F-8AC4-877C8A59BE7B",
+      "overrideName": "E036DE9D-5414-4C8C-827B-6E00B294B384_stringValue",
+      "value": "Label"
+    }
+  ],
+  "overrides": {
+    "E036DE9D-5414-4C8C-827B-6E00B294B384": "Label"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D84D36F-0466-40A5-92E9-54150D5F1A71",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E4227680-C944-4D60-A46D-7A4F9BEAC97B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "F6FAC3C2-4C1D-4E3A-9E98-5D6D2A3802D3",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0136D93C-F20D-4584-BD77-6906D56993C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 58,
+    "x": 25,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8CBC7C9C-BC6A-407C-8BAE-810D064E904C"
+    },
+    {
+      "class": "text",
+      "id": "6BCD0C1E-ED37-4572-9E5F-15AF83A184E2"
+    }
+  ],
+  "name": "FA/sm/light/WebApps/fa-laptop",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

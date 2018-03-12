@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4643C6C5-0DD1-47A6-8543-232CFF9F2BC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88C4525D-40EF-4E79-92D1-2F35D3C7B6F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E74A3E28-67D3-4C93-8538-90C2CB6BF554",
+    "height": 20,
+    "width": 97,
+    "x": 185,
+    "y": 1076
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "utils/style-labels copy 29",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1076A02-1FF3-4E42-84CF-062F3124093B_stringValue",
+      "value": "fa-light-sm"
+    }
+  ],
+  "overrides": {
+    "B1076A02-1FF3-4E42-84CF-062F3124093B": "fa-light-sm"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BCCD51F-D999-4ECB-9FA6-CA4E2D4EBB62",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D714A532-13E2-4717-960F-E6C961C7167E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "527A720B-DED9-4D65-AB37-86FB5CEC2095",
+        "version": 6
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89A412C5-D474-467E-AD71-362E062FA409",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFF4DF92-C090-4171-A218-033ECC15E477",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C5D4639-7392-460E-A578-531BD4AEB754",
+    "height": 31.99999999999999,
+    "width": 100,
+    "x": 2090,
+    "y": 1981
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/sm/success",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F2CE947-4A3A-46AF-BF5E-48FCDE67B671",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE23F350-F179-46F6-A8FF-71BA5915C547",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "E186269C-E032-43C3-A560-6ADBBEDD8C27",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

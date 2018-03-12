@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "572C0BBD-C083-4ABC-88D5-523AED6F0633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEB61D2F-4255-43AB-B1AC-CA823F531F2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "105F374D-0036-4F78-99FD-9C4D5178B06B",
+    "height": 1002,
+    "width": 220,
+    "x": 0,
+    "y": 150
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4B91D388-A856-4CA5-B1E0-6DD9642701EC"
+    },
+    {
+      "class": "group",
+      "id": "D551DC5A-4AA5-41D6-9D72-8E7E50021CCF"
+    },
+    {
+      "class": "group",
+      "id": "8412150B-BAC9-4F7F-BF89-4B51D0ABAFBC"
+    }
+  ],
+  "name": "side-menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BEBCF4B-14A1-4FB1-A50E-EC853E0DF74F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "0D33C769-139E-423A-BAED-507EAF9F89B2",
+        "version": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51961331-EBA6-4955-9021-1670CDABC6B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEF243F6-BC7F-4562-9FAC-ED9C9197C074",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90114329-BAD4-494A-A440-1250D11BACE9",
+    "height": 20,
+    "width": 107,
+    "x": 366,
+    "y": 39
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "utils/style-labels copy 31",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1076A02-1FF3-4E42-84CF-062F3124093B_stringValue",
+      "value": "jumbotron.h1"
+    }
+  ],
+  "overrides": {
+    "B1076A02-1FF3-4E42-84CF-062F3124093B": "jumbotron.h1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE3668B9-D8D5-4881-B81F-1597377F7564",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D714A532-13E2-4717-960F-E6C961C7167E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "056C336E-47BF-4E5A-A76A-2FF5B60CD543",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC33D287-C113-47AE-82D2-71FDEC862262",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CE3D3CE-F7F4-401C-96FC-4951D624A53A",
+    "height": 24,
+    "width": 80,
+    "x": 1940,
+    "y": 2035
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/xs/danger",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6F4C9DE-71D9-4AC9-9B71-33DE9F7B757B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2C8BF2F7-5B28-4F3C-9DD3-855EABBCF8BD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "2A3D586B-F888-4186-A664-990654FF4075",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

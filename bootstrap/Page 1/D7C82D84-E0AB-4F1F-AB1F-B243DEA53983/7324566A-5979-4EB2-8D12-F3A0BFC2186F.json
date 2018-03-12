@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7324566A-5979-4EB2-8D12-F3A0BFC2186F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA6F29B9-587B-4EEF-9DDC-19326A5E9725",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D41F8301-5548-4168-97E0-1F9355124385",
+    "height": 56,
+    "width": 317,
+    "x": 2900,
+    "y": 1287
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/input-label-top copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "88172983-ACAB-42F7-A77D-14FC75BC4363_stringValue",
+      "value": "label is long"
+    }
+  ],
+  "overrides": {
+    "88172983-ACAB-42F7-A77D-14FC75BC4363": "label is long"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42C5DDF9-2CA0-4A0C-97C2-7B831F89C812",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6DC05074-B953-4F11-A2C0-DA91809B5D4A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

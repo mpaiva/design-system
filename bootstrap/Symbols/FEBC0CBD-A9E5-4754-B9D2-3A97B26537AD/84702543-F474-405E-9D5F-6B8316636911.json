@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "84702543-F474-405E-9D5F-6B8316636911",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 12,
+    "x": 7,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms/checkbox",
+  "nameIsFixed": false,
+  "originalObjectID": "84702543-F474-405E-9D5F-6B8316636911",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 0.5454545454545454,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.454545454545455,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D79EBB34-6C78-434E-AAAD-1B51520F4C1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "FE1EAAC2-A71F-434B-9999-19E1AFCBCBB0",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

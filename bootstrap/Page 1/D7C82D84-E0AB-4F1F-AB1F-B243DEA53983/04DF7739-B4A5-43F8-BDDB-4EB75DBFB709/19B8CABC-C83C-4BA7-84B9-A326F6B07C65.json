@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "19B8CABC-C83C-4BA7-84B9-A326F6B07C65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76B4AA13-4CBF-4298-85C5-054CF6A74B66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "436BF435-ED4F-4C66-83B6-40FAC5397B73",
+    "height": 250,
+    "width": 354,
+    "x": 235,
+    "y": 450
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/card-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B5D56FC5-9E97-4D5B-B197-0AF25AF9D7F8_symbolID",
+      "value": "99829EBF-9A3F-49C6-B21E-F8C3A4A0DE23"
+    }
+  ],
+  "overrides": {
+    "B5D56FC5-9E97-4D5B-B197-0AF25AF9D7F8": {
+      "symbolID": "99829EBF-9A3F-49C6-B21E-F8C3A4A0DE23"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28C261C2-A4AE-4C64-9834-0FE682245E0D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E44056A1-1AAF-4592-BAF2-FFA113662C11",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6BF55785-7E3B-43B8-8675-06471495B7A5",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

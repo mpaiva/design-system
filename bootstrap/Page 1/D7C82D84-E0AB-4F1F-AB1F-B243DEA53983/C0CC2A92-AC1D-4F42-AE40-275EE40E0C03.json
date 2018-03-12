@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C0CC2A92-AC1D-4F42-AE40-275EE40E0C03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1994C065-0169-4EA1-A35E-5D8A31B449B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01432634-EDFB-4A20-9FF2-2395AA77A1DC",
+    "height": 50,
+    "width": 400,
+    "x": 2961,
+    "y": 3590
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/breadcrumbs-L2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8FD83F31-C1D9-4AB8-AE26-161A3E26AFEC_stringValue",
+      "value": "Program Overview"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A076D15-3D13-40C1-888C-9A0F1DC6E598_stringValue",
+      "value": "Details"
+    }
+  ],
+  "overrides": {
+    "8FD83F31-C1D9-4AB8-AE26-161A3E26AFEC": "Program Overview",
+    "9A076D15-3D13-40C1-888C-9A0F1DC6E598": "Details"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FB1453D-58BD-427A-9978-3316E7609D59",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9FFD5792-D918-4CE0-BB80-3C91A9C64856",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
