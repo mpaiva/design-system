@@ -55,9 +55,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.007843137254901926,
-          "green": 0.4,
-          "red": 1
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,7 +79,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/6e273039db2b344a9640dbc23779d271af5db69b",
+          "_ref": "images/9a4208b8705c9d9fd87357f61491c21b4ef9d542",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

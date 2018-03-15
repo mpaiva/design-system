@@ -7,7 +7,7 @@
     "green": 0.6922554347826089,
     "red": 0
   },
-  "changeIdentifier": 42,
+  "changeIdentifier": 685,
   "do_objectID": "C1C9E3DB-65D4-404E-A9AB-8BC22678D221",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "7AD2CD7F-1FAD-4B12-91F0-DB7A249AAE6E"
+      "class": "group",
+      "id": "C04260C7-AD76-4CE3-9A6C-BF405BB0E0D4"
     }
   ],
   "name": "brand/logo-light",

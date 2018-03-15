@@ -7,7 +7,7 @@
     "green": 0.6922554347826089,
     "red": 0
   },
-  "changeIdentifier": 57,
+  "changeIdentifier": 187,
   "do_objectID": "7CDA16AE-CE21-4F39-9682-AACF8CB9C348",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "5E69FC1A-AFB2-4452-95E0-C5BA1D9DC8C0"
+      "class": "group",
+      "id": "C6CF50A7-6172-4224-BA9D-9A39D33A57E5"
     }
   ],
   "name": "brand/logo-dark",
