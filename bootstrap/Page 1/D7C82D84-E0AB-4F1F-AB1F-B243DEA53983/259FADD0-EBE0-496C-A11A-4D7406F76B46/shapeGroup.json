@@ -66,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0,
-          "red": 0.7326766304347831
+          "blue": 0.7215686274509804,
+          "green": 0.2549019607843139,
+          "red": 0.05882352941176473
         },
         "fillType": 0,
         "isEnabled": true,
@@ -91,13 +91,13 @@
             "enabled": 1,
             "modelID": "constraint_6e4d078f-b4ab-4940-9e3e-db623907e095",
             "model_class": "ADModelConstraint",
-            "model_version": 0.2,
+            "model_version": 0.1,
             "multiplier": 50
           },
           "automatic": 1,
           "modelID": "viewConstraints_e7230520-95bd-45b1-b6cc-169e810978d0",
           "model_class": "ADModelViewConstraints",
-          "model_version": 0.2,
+          "model_version": 0.1,
           "scaleFactor": 1
         }
       }
