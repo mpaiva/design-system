@@ -88,25 +88,6 @@
       "value": "Tasks"
     }
   ],
-  "overrides": {
-    "474DFBBD-3846-4187-A939-CF96A16B139A": "Alerts",
-    "49FC4D4F-0BFF-4627-B317-3E56393D5180": "",
-    "5EF1F88E-3C62-4705-90F9-E91B18E5D65A": "",
-    "825A3501-2F8C-4908-AC22-93F235141DC3": "Marcelo Paiva Longname Jr",
-    "8BA97131-7E23-4BB3-B93D-63EDAFB68AE3": "",
-    "963F0AA9-8459-41D8-ABB7-EB1D2752D96E": {
-      "8639B75C-BBCE-4199-9888-2E4ADDC7780E": "very long label very"
-    },
-    "A2E66F22-50FA-4AA5-8493-68D4148C2E54": {
-      "CF825E5D-1B12-4F88-BE6E-F822D0FF0824": "A name could be long too, I mean, reallly looong"
-    },
-    "AE2AA0EF-A11D-41B6-8782-CE0A4E2FDC3E": "Tasks",
-    "BB62A9A9-F64C-4477-BB9D-E7E71E82478F": " ",
-    "BD7AED17-2D9B-45DA-A37E-91798710CFD3": "Bookmarks",
-    "F6313187-6464-4BBB-AC47-DD5ACEE0A136": {
-      "symbolID": "49FDE919-0BAF-457B-A1D6-6BA2D43609F4"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

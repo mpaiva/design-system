@@ -35,11 +35,6 @@
       "value": "45C61480-F955-415F-B6AC-7F5E020A01B2"
     }
   ],
-  "overrides": {
-    "DC91A18A-BB47-47BD-BA39-AFB972E8C69D": {
-      "symbolID": "45C61480-F955-415F-B6AC-7F5E020A01B2"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

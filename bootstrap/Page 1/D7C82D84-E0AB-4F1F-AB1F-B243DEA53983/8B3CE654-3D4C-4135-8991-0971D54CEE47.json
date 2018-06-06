@@ -40,12 +40,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "595B4D9E-4B27-4C59-BDF5-A1C2671CD497": {
-      "symbolID": ""
-    },
-    "74C75CD5-E5AE-4EDC-89B1-CFA5ACA1E16E": "Textarea"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

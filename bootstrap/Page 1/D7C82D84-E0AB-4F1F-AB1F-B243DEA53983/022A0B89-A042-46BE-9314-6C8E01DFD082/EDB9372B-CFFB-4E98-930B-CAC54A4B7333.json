@@ -35,9 +35,6 @@
       "value": "label-side-danger"
     }
   ],
-  "overrides": {
-    "531D116A-55F6-4BC3-B0C0-EB127B68B780": "label-side-danger"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

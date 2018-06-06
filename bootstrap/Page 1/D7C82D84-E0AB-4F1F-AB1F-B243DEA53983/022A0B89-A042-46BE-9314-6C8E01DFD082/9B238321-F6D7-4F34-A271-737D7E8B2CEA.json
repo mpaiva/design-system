@@ -35,9 +35,6 @@
       "value": "input-disabled"
     }
   ],
-  "overrides": {
-    "B1076A02-1FF3-4E42-84CF-062F3124093B": "input-disabled"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

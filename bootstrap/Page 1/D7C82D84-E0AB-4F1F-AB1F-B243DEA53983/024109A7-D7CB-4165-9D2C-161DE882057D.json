@@ -50,14 +50,6 @@
       "value": "*"
     }
   ],
-  "overrides": {
-    "10078177-18E0-4131-8724-1B098D70F8D5": "Password",
-    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
-      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
-    },
-    "3AA30B8B-7E97-454C-8A1C-91724B0D00E9": "*",
-    "BFF67E19-FFC2-46E5-AD61-1992F7CDB726": "************"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "69CABF15-7C53-4C11-92D3-831D670318A2",
-  "name": "h4-small",
+  "name": "headings/h4-small",
   "value": {
     "_class": "style",
     "endDecorationType": 0,
@@ -11,19 +11,30 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.6073683500289917,
           "green": 0.5449618697166443,
           "red": 0.4454154968261719
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QElJvYm90b1NsYWItUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "RobotoSlab-Regular",
+            "size": 12
+          }
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": -0.2499999,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PDhESWk5TVGFiU3RvcHNfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzXxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvblYkY2xhc3OAAhABgAIjP6mZmaAAAACABNIUDRUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGhxYTlNPYmplY3TSGBkeH18QEE5TUGFyYWdyYXBoU3R5bGWiHhxfEA9OU0tleWVkQXJjaGl2ZXLRIiNUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAE4AWQBuAHsAnQCkAKYAqACqALMAtQC6AMUAxgDIAM0A2ADhAOkA7AD1APoBDQEQASIBJQEqAAAAAAAAAgEAAAAAAAAAJAAAAAAAAAAAAAAAAAAAASw="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "tabStops": [
+          ],
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

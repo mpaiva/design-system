@@ -35,9 +35,6 @@
       "value": "vh-gradient"
     }
   ],
-  "overrides": {
-    "94BE7F0E-4330-4803-8265-7C076438EC17": "vh-gradient"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

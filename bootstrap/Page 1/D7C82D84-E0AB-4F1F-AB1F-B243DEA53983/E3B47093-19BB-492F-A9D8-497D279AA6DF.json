@@ -55,19 +55,6 @@
       "value": "Select a country"
     }
   ],
-  "overrides": {
-    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
-      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
-    },
-    "595B4D9E-4B27-4C59-BDF5-A1C2671CD497": {
-      "40DED6AD-5097-4711-BABB-B0F37EC58ED4": ""
-    },
-    "CA9ABCF0-F619-4900-BCFB-AFE3FC365E06": "*",
-    "E44AD543-3354-41B3-88BF-7FA05372D52C": {
-      "1CB4AF99-8297-49CB-BA87-8DCA6FA07E67": "Dropdown"
-    },
-    "E936B7E5-424D-44C9-A153-2302D1DF399B": "Select a country"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

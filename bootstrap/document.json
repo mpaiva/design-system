@@ -15,8 +15,12 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "f3ec81c0-2410-11e8-a01b-89a59faeb841",
+  "do_objectID": "5C94C6CB-E4D1-4CF8-B10B-FDF1DC22AC3B",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,9 +28,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49",
-    "build": 51002,
-    "version": 101
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
     "Page 1",

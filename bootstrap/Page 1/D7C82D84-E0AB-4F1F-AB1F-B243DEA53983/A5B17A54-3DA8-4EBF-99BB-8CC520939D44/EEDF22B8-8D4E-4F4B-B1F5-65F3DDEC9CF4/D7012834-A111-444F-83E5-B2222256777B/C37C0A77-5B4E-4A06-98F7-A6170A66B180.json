@@ -36,9 +36,6 @@
       "value": "Label"
     }
   ],
-  "overrides": {
-    "E036DE9D-5414-4C8C-827B-6E00B294B384": "Label"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

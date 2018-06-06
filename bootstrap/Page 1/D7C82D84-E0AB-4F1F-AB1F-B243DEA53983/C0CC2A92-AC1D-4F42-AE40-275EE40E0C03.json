@@ -40,10 +40,6 @@
       "value": "Details"
     }
   ],
-  "overrides": {
-    "8FD83F31-C1D9-4AB8-AE26-161A3E26AFEC": "Program Overview",
-    "9A076D15-3D13-40C1-888C-9A0F1DC6E598": "Details"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

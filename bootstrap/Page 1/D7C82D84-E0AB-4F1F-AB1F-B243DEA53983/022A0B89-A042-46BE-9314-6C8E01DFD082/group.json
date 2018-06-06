@@ -20,7 +20,7 @@
     "x": 173,
     "y": 547
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -1,10 +1,394 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGz9BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QNAcIERIZJicoKSo2OT9DR09QUVJTV1tnaGlqa2xtbm9xcn6BiYqWl5iZpaiwsb2+v8DDx8tVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgDGAA4AzbxCoJbgAIABTAGUAbABlAGMAdAAgAHQAaABlACDYPN+oACAAbABhAHkAZQByAAoluAAgAFAAcgBlAHMAcwAgAEMAbwBuAHQAcgBvAGwAKwBDACAAdABvACAAcABpAGMAawAgAHkAbwB1AHIAIAB0AGUAcwB0ACAAYwBvAGwAbwByACAAZgByAG8AbQAgAHQAaABlACAAcABhAGwAbABlAHQAZQAKJbgAIABSAHUAbgAgAFMAdABhAHIAawAgAEMAbwBuAHQAcgBhAHMAdAAgAHAAbAB1AGcAaQBuAAoluAAgAEYAaQBsAGwAIAB0AGgAZQAgJc8lzyXPACAAdwBpAHQAaAAgAHQAaABlACAAcgBhAHQAaQBvACAAcgBlAHMAdQBsAHQAcwAgAGkAbgAgAHQAaABlACAAcABhAGwAbABlAHQAZQAgAHMAeQBtAGIAbwBs0hMMFBhaTlMub2JqZWN0c6MVFheABIAggCiAMNMaEwwbICVXTlMua2V5c6QcHR4fgAWABoAHgAikISIjJIAJgA2AFYAfgB5fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKywtLi8MMDEyMTQ1XxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzXxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvbiNAFZmZoAAAAIAKEAGACiM/qZmZoAAAAIAM0hMMNziggAvSOjs8PVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiPD5YTlNPYmplY3TSOjtAQV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0BCPl8QEE5TUGFyYWdyYXBoU3R5bGXSDERFRl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMaEwxIS06iSUqAD4AQokxNgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABcTHVjaWRhR3JhbmRl0jo7VFVfEBNOU011dGFibGVEaWN0aW9uYXJ5o1RWPlxOU0RpY3Rpb25hcnnSOjtYWV8QEE5TRm9udERlc2NyaXB0b3KiWj5fEBBOU0ZvbnREZXNjcmlwdG9y0xoTDFxhJaRdXl9ggBaAF4AYgBmkYmNkZYAagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9KSGsAAAAEjP/AAAAAAAAAjP9KR78AAAAAjP9KS3x/////SOjtWcKJWPiO/1cKPYAAAANMaEwxzeCWkHB0eH4AFgAaAB4AIpCF6eySACYAhgCSAH4Ae0gxERYCAFIAi0xoTDIKFTqJJSoAPgBCiTIeAEYAjgBNeUm9ib3RvLVJlZ3VsYXLTGhMMi5AlpF1eX2CAFoAXgBiAGaSRY5OUgCWAG4AmgCeAHiM/0pIawAAAASM/0pHvwAAAACM/0pLfH////9MaEwyanyWkHB0eH4AFgAaAB4AIpCGhoiSACYApgCyAH4Ae0gxERaeAFIAq0xoTDKmsTqJJSoAPgBCiTK6AEYArgBNfEA9BcHBsZUNvbG9yRW1vamnTGhMMsrclpF1eX2CAFoAXgBiAGaS4Y7q7gC2AG4AugC+AHiM/0pIawAAAASM/0pHvwAAAACM/0pLfH////9I6O8HCXk5TTXV0YWJsZUFycmF5o8E8PtLEDMXGV05TLmRhdGFPEBgBAAwBAgIHAQEAOgEBABsBAQAKAQMALQGAMtI6O8jJXU5TTXV0YWJsZURhdGGjyMo+Vk5TRGF0YdI6O8zNXxASTlNBdHRyaWJ1dGVkU3RyaW5nos4+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0dHSVHJvb3SAAQAIABEAGgAjAC0AMgA3AG4AdAB9AIYAmAClAKwArgCwALIAtAIHAgwCFwIbAh0CHwIhAiMCKgIyAjcCOQI7Aj0CPwJEAkYCSAJKAkwCTgJhAoMCsAK3AsQC2QLkAvkDBgMoAzEDMwM1AzcDQANCA0cDSANKA08DWgNjA2sDbgN3A3wDlgOaA60DsgPPA9ED0wPaA90D3wPhA+QD5gPoA+oEAAQWBB8ELAQxBEcESwRYBF0EcARzBIYEjQSSBJQElgSYBJoEnwShBKMEpQSnBKkErQSzBLgEvgTHBNAE2QTiBOcE6gTzBPoE/wUBBQMFBQUHBQwFDgUQBRIFFAUWBRsFHQUfBSYFKQUrBS0FMAUyBTQFNgVFBUwFUQVTBVUFVwVZBV4FYAViBWQFZgVoBXEFegWDBYoFjwWRBZMFlQWXBZwFngWgBaIFpAWmBasFrQWvBbYFuQW7Bb0FwAXCBcQFxgXYBd8F5AXmBegF6gXsBfEF8wX1BfcF+QX7BgQGDQYWBhsGKgYuBjMGOwZWBlgGXQZrBm8GdgZ7BpAGkwaoBroGvQbCAAAAAAAAAgEAAAAAAAAA0wAAAAAAAAAAAAAAAAAABsQ="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 1,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 12,
+        "location": 1
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleColorEmoji",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 2,
+        "location": 13
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 7,
+        "location": 15
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 1,
+        "location": 22
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 58,
+        "location": 23
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 1,
+        "location": 81
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 27,
+        "location": 82
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 1,
+        "location": 109
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 10,
+        "location": 110
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 3,
+        "location": 120
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 5.400000095367432,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 45,
+        "location": 123
+      }
+    ],
+    "string": "▸ Select the 🎨 layer\n▸ Press Control+C to pick your test color from the pallete\n▸ Run Stark Contrast plugin\n▸ Fill the ●●● with the ratio results in the pallete symbol"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B3AFE948-06B1-4386-91A9-22BB93255CB5",
@@ -50,18 +434,30 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
-          "blue": 0.2901572585105896,
-          "green": 0.290214329957962,
-          "red": 0.290167510509491
+          "blue": 0.8790007829666138,
+          "green": 0.06114692240953445,
+          "red": 0.7398750185966492
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAFxMdWNpZGFHcmFuZGXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "LucidaGrande",
+            "size": 15
+          }
         },
         "kerning": -0.3400000035762787,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBEQExRfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc18QEk5TV3JpdGluZ0RpcmVjdGlvblxOU1RleHRCbG9ja3NfEB9OU1RpZ2h0ZW5pbmdGYWN0b3JGb3JUcnVuY2F0aW9uViRjbGFzcyNAFZmZoAAAAIACEAGAAiM/qZmZoAAAAIAE0hYOFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIcHlhOU09iamVjdNIaGyAhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjICIeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctElJlRyb290gAEACAARABoAIwAtADIANwA9AEMAUABlAHAAhQCSALQAuwDEAMYAyADKANMA1QDaAOUA5gDoAO0A+AEBAQkBDAEVARoBNAE4AUsBXQFgAWUAAAAAAAACAQAAAAAAAAAnAAAAAAAAAAAAAAAAAAABZw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "paragraphSpacing": 5.400000095367432,
+          "tabStops": [
+          ],
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

@@ -40,14 +40,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "B5D56FC5-9E97-4D5B-B197-0AF25AF9D7F8": {
-      "CEB40B30-32E8-4302-87BE-1057A56D7744": {
-        "074870B7-8726-4C60-92B4-13584FA7FBBD": ""
-      },
-      "symbolID": "99829EBF-9A3F-49C6-B21E-F8C3A4A0DE23"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

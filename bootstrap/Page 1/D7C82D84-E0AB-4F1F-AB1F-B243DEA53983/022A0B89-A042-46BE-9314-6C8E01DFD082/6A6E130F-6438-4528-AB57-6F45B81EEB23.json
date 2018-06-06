@@ -17,8 +17,8 @@
     "do_objectID": "E36905F8-558E-41FE-9DE5-A6433E55B9F1",
     "height": 20,
     "width": 136,
-    "x": 1831,
-    "y": 1776
+    "x": 1785,
+    "y": 2085
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -35,9 +35,6 @@
       "value": "sidenav/mini-menu"
     }
   ],
-  "overrides": {
-    "531D116A-55F6-4BC3-B0C0-EB127B68B780": "sidenav/mini-menu"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

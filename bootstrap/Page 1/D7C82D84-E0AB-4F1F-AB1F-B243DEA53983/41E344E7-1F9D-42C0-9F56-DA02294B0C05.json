@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiMnLzAxMjM6PkpLTE1OT1BRUlRfYmVpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXlNlbGVjdCBTeW1ib2xz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAG4AaXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlEAHSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQD4AAAAAAABbUm9ib3RvLUJvbGTSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctMREgo/RB2kQEFCQ4ASgBOAFIAVpEVGR0iAFoAXgBiAGYAaU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/TaYEAAAAAIz/wAAAAAAAAIz/dtX4AAAAAIz/ZYAdAAAAA0jQ1OFOiODnWVVZXWFkKWlsiW11eXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzXxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvbiNAJgAAAAAAAIAcgBwjP6mZmaAAAACAHtISCmBhoIAd0jQ1Y2RXTlNBcnJheaJjOdI0NWZnXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZmg5XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWprXxASTlNBdHRyaWJ1dGVkU3RyaW5nomw5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAJkAoACoALMAuAC6ALwAvgDAAMUAxwDJAMsAzQDPAPoBHAFJAVwBXgFjAYABggGEAYsBjgGQAZIBlQGXAZkBmwGxAccB0AHcAeEB7AH1AgsCDwIcAiUCKgI9AkACUwJaAl8CYQJjAmUCZwJsAm4CcAJyAnQCdgJ6AoAChQKLApQCnQKmAq8CtAK3AsQC2QLkAvkDBgMoAzEDMwM1Az4DQANFA0YDSANNA1UDWANdA3cDewOOA5MDqAOrA8AD0gPVA9oAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAAD3A=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4642024040222168,
+            "green": 0.3964861035346985,
+            "red": 0.3033144474029541
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 30
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 11,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 14,
+        "location": 0
+      }
+    ],
+    "string": "Select Symbols"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "41E344E7-1F9D-42C0-9F56-DA02294B0C05",
@@ -46,23 +78,36 @@
     "do_objectID": "EFEB2DC3-CFE9-4D3E-8EF0-CD0A4DA11033",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "1ECA8320-CED9-4FC3-A7B3-EE22E4113738",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2BB8E2DF-19E8-4238-9AA9-BF04164CCC9C",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.4642024040222168,
           "green": 0.3964861035346985,
           "red": 0.3033144474029541
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAFtSb2JvdG8tQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Bold",
+            "size": 30
+          }
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBEQExRfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc18QEk5TV3JpdGluZ0RpcmVjdGlvblxOU1RleHRCbG9ja3NfEB9OU1RpZ2h0ZW5pbmdGYWN0b3JGb3JUcnVuY2F0aW9uViRjbGFzcyNAJgAAAAAAAIACEAGAAiM/qZmZoAAAAIAE0hYOFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIcHlhOU09iamVjdNIaGyAhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjICIeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctElJlRyb290gAEACAARABoAIwAtADIANwA9AEMAUABlAHAAhQCSALQAuwDEAMYAyADKANMA1QDaAOUA5gDoAO0A+AEBAQkBDAEVARoBNAE4AUsBXQFgAWUAAAAAAAACAQAAAAAAAAAnAAAAAAAAAAAAAAAAAAABZw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "paragraphSpacing": 11,
+          "tabStops": [
+          ],
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

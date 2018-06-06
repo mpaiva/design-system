@@ -60,13 +60,6 @@
       "value": "AAA 7.13:1"
     }
   ],
-  "overrides": {
-    "0994DC7E-32ED-4724-98F5-FA81BE99D9E3": "222, 92, 72",
-    "47BED492-E28F-4259-AD3A-8098044FD5BE": "15, 65, 184",
-    "7E8ABCC9-4575-4CAA-83F6-E2EB021711EB": "$primary",
-    "81E57553-D75A-4B9E-B041-46E6D01F3901": "0F41B8",
-    "A3EB1F7C-FB2A-496A-8C47-71426219491F": "AAA 7.13:1"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

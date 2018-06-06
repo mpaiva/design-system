@@ -1,10 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAgISIjJCUmJyszNDU2Nz5CTE9SVmJjZGVmZ2lVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANhICbTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgB1fEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlEAEiP+ZmZtIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF1Ob3RvU2Fucy1Cb2xk0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFRgpHSCUlSUpJWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACAFIAWgBTSEgpNTqCAFdI4OVBRV05TQXJyYXmiUD3SODlTVF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1NVPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKV1wfpFhZWluAGIAZgBqAG6RdXV1dgByAHIAcgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI4OTxoojw90jg5amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAWQBfAGYAbwB2AIMAhQCHAIkAjACTAJsApgCsAK4AsACyALQAtgC8AL4AwADCAMQAxgDIAPMA+gEcAS8BXAFeAWMBaAGFAYcBiQGQAZMBlQGXAZoBnAGeAaABtgHMAdUB4wHoAfMB/AISAhYCIwIsAjECRAJHAloCZwJyAn4CkwKgAqwCrgKwArICtAK5AroCvALBAskCzALRAusC7wMCAwkDDgMQAxIDFAMWAxsDHQMfAyEDIwMlAykDLwM0AzoDQwNIA0sDUANlA2gDfQOPA5IDlwAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAOZ"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSans-Bold",
+              "size": 18
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 1.8,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0
+          }
+        },
+        "length": 1,
+        "location": 0
+      }
+    ],
+    "string": "…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A3EB1F7C-FB2A-496A-8C47-71426219491F",

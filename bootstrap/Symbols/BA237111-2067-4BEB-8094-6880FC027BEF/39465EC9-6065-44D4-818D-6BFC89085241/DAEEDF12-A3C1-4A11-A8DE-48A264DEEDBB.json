@@ -1,10 +1,43 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi8yODxASElKS0xQVGBhYmNkZWZnaGprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADWVBhZ2UgTmFtZdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtcKIyQlJicoKSoqLC0sLlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodF8QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb25fEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26AC4AJgAkjQECAAAAAAAAjP6mZmaAAAAAQAdISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A4AAAAAAAAXxASUm9ib3RvU2xhYi1SZWd1bGFy0jM0TU5fEBNOU011dGFibGVEaWN0aW9uYXJ5o01PN1xOU0RpY3Rpb25hcnnSMzRRUl8QEE5TRm9udERlc2NyaXB0b3KiUzdfEBBOU0ZvbnREZXNjcmlwdG9y0xESClVaHaRWV1hZgBWAFoAXgBikW1xdXoAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP5wcHBwcHCQjP/AAAAAAAAAjP+d3d3d3d3cjP84eHh4eHhnSMzRPaaJPNyO/4AAAAAAAANIzNGxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom43XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAJQAmwCjAK4AswC1ALcAuQC7AMAAwgDEAMYAyADKAN0A/wEsATMBQgFNAVoBbAGOAaABtQG3AbkBuwHEAc0BzwHUAdUB1wHcAecB8AH4AfsCBAIJAiMCJwI6Aj8CXAJeAmACZwJqAmwCbgJxAnMCdQJ3Ao0CowKsAsECxgLcAuAC7QLyAwUDCAMbAyIDJwMpAysDLQMvAzQDNgM4AzoDPAM+A0IDSANNA1MDXANlA24DdwN8A38DiAONA6IDpQO6A8wDzwPUAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA9Y="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2745098039215687,
+            "green": 0.2196078431372549,
+            "red": 0.1647058823529411
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 24
+            }
+          },
+          "kerning": -0.5,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 33,
+            "minimumLineHeight": 33,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "Page Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DAEEDF12-A3C1-4A11-A8DE-48A264DEEDBB",
@@ -22,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 124,
+    "width": 120,
     "x": 24,
-    "y": 24
+    "y": 25
   },
-  "glyphBounds": "{{0, 8}, {123, 24}}",
+  "glyphBounds": "{{1, 7}, {119, 23}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -41,7 +74,44 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "5755339D-9C54-447E-B0AB-5F915BDD9E34"
+    "_class": "style",
+    "do_objectID": "59E1A723-3962-4280-88E6-4D56B898541E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5755339D-9C54-447E-B0AB-5F915BDD9E34",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2745098039215687,
+          "green": 0.2196078431372549,
+          "red": 0.1647058823529411
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 24
+          }
+        },
+        "kerning": -0.5,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 33,
+          "minimumLineHeight": 33,
+          "tabStops": [
+          ],
+          "tighteningFactorForTruncation": 0.05
+        }
+      },
+      "verticalAlignment": 0
+    }
   },
   "textBehaviour": 0
 }

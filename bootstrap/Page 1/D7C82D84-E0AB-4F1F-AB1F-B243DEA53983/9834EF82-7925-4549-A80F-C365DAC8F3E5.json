@@ -40,14 +40,6 @@
       "value": " "
     }
   ],
-  "overrides": {
-    "CEB40B30-32E8-4302-87BE-1057A56D7744": {
-      "074870B7-8726-4C60-92B4-13584FA7FBBD": " "
-    },
-    "E00388BF-2E22-427B-AEC8-D32706E161FA": {
-      "074870B7-8726-4C60-92B4-13584FA7FBBD": " "
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

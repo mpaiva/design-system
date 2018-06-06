@@ -55,19 +55,6 @@
       "value": "A8F19385-9AF4-4286-9420-6C8F8D2ADCE1"
     }
   ],
-  "overrides": {
-    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
-      "symbolID": "2CCC51E3-E11D-4115-9808-9D2BB41712FE"
-    },
-    "94F59B8A-D2B7-4559-8196-2CE6B9388158": "oops!",
-    "A555B1E8-77CF-479F-83C5-2226E5451E62": "required",
-    "E44AD543-3354-41B3-88BF-7FA05372D52C": {
-      "symbolID": "C23BB522-D6BA-4BA5-8702-A3A340E69DD4"
-    },
-    "FDE0509A-1C38-4D4A-9261-C6CB5C599163": {
-      "symbolID": "A8F19385-9AF4-4286-9420-6C8F8D2ADCE1"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

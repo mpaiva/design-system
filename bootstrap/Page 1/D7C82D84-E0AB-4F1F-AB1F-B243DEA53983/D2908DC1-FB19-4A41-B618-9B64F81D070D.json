@@ -1,10 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi4xNzs/R0hJSktPU19gYWJjZGVmZ2lqVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxEBpUxvcmVtIGlwc3VtIGVnZXQgdXJuYSBtb2xsaXMgb3JuYXJlIHZlbCBldSBsZW8uIEN1bSBzb2NpaXNuYXRvcXVlIHBlbmF0aWJ1cyBldCBtYWduaXMgZGlzIHBhcnR1cmllbnQgbW9udGVzLCBjb2RlIG5hc2NldHVyIHJpZGljdWx1cyBtdXMuIE51bGxhbSBpZCBkb2xvciBpZCBuaWJoIHVsdHJpY2llcyB2ZWhpY3VsYSB1dCBpZCBlbGl0LiBTZWQgZXVpc21vZCBhbGlxdWV0IHNhcGllbiBjb25zZXF1YXQgdGluY2lkdW50LgpCdXQgSSBtdXN0IGV4cGxhaW4gdG8geW91IGhvdyBhbGwgdGhpcyBtaXN0YWtlbiBpZGVhIG9mIGRlbm91bmNpbmcgcGxlYXN1cmUgYW5kIHByYWlzaW5nIHBhaW4gd2FzIGJvcm4gYW5kIEkgd2lsbCBnaXZlIHlvdSBhIGNvbXBsZXRlIGFjY291bnQgb2YgdGhlIHN5c3RlbSwgYW5kIGV4cG91bmQgdGhlIGFjdHVhbC7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WIyQlJicKKCkqKSwtXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzXxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvbiNAJgAAAAAAAIAJEAGACSM/qZmZoAAAAIAL0hIKLzCggArSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiNDZYTlNPYmplY3TSMjM4OV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozg6Nl8QEE5TUGFyYWdyYXBoU3R5bGXSCjw9Pl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpAQ0aiQUKADoAPokRFgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABeUm9ib3RvLVJlZ3VsYXLSMjNMTV8QE05TTXV0YWJsZURpY3Rpb25hcnmjTE42XE5TRGljdGlvbmFyedIyM1BRXxAQTlNGb250RGVzY3JpcHRvcqJSNl8QEE5TRm9udERlc2NyaXB0b3LTERIKVFkdpFVWV1iAFYAWgBeAGKRaW1xdgBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/02mBAAAAACM/8AAAAAAAACM/3bV+AAAAACM/2WAHQAAAANIyM05ook42I7/Vwo9gAAAA0jIza2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibTZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoCMwI6AkICTQJSAlQCVgJYAloCXwJhAmMCZQJnAmkCfAKeAssC0gLfAvQC/wMUAyEDQwNMA04DUANSA1sDXQNiA2MDZQNqA3UDfgOGA4kDkgOXA7EDtQPIA80D6gPsA+4D9QP4A/oD/AP/BAEEAwQFBBsEMQQ6BEkETgRkBGgEdQR6BI0EkASjBKoErwSxBLMEtQS3BLwEvgTABMIExATGBMoE0ATVBNsE5ATtBPYE/wUEBQcFEAUVBSoFLQVCBVQFVwVcAAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAABV4="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4642024040222168,
+            "green": 0.3964861035346985,
+            "red": 0.3033144474029541
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 15
+            }
+          },
+          "kerning": -0.3400000035762787,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "paragraphSpacing": 11,
+            "tabStops": [
+            ],
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 421,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum eget urna mollis ornare vel eu leo. Cum sociisnatoque penatibus et magnis dis parturient montes, code nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed euismod aliquet sapien consequat tincidunt.\nBut I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D2908DC1-FB19-4A41-B618-9B64F81D070D",
@@ -51,18 +83,30 @@
       "_class": "textStyle",
       "do_objectID": "BDAFFE83-406E-46D9-B97D-0E1923B21434",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.4642024040222168,
           "green": 0.3964861035346985,
           "red": 0.3033144474029541
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 15
+          }
         },
         "kerning": -0.3400000035762787,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBEQExRfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc18QEk5TV3JpdGluZ0RpcmVjdGlvblxOU1RleHRCbG9ja3NfEB9OU1RpZ2h0ZW5pbmdGYWN0b3JGb3JUcnVuY2F0aW9uViRjbGFzcyNAJgAAAAAAAIACEAGAAiM/qZmZoAAAAIAE0hYOFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIcHlhOU09iamVjdNIaGyAhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjICIeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctElJlRyb290gAEACAARABoAIwAtADIANwA9AEMAUABlAHAAhQCSALQAuwDEAMYAyADKANMA1QDaAOUA5gDoAO0A+AEBAQkBDAEVARoBNAE4AUsBXQFgAWUAAAAAAAACAQAAAAAAAAAnAAAAAAAAAAAAAAAAAAABZw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "paragraphSpacing": 11,
+          "tabStops": [
+          ],
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

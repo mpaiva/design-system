@@ -85,25 +85,6 @@
       "value": " "
     }
   ],
-  "overrides": {
-    "0CF40347-9688-4FA4-A6AA-F6877B33DAB5": {
-      "symbolID": "49FDE919-0BAF-457B-A1D6-6BA2D43609F4"
-    },
-    "31149985-E15F-402F-AFA2-3AD654D03BE6": "",
-    "474DFBBD-3846-4187-A939-CF96A16B139A": "  ",
-    "81751EF6-B367-4625-94F3-819F52A98C56": "",
-    "825A3501-2F8C-4908-AC22-93F235141DC3": " ",
-    "963F0AA9-8459-41D8-ABB7-EB1D2752D96E": {
-      "8639B75C-BBCE-4199-9888-2E4ADDC7780E": "very long label very"
-    },
-    "A2E66F22-50FA-4AA5-8493-68D4148C2E54": {
-      "CF825E5D-1B12-4F88-BE6E-F822D0FF0824": "A name could be long too, I mean, reallly looong"
-    },
-    "AE2AA0EF-A11D-41B6-8782-CE0A4E2FDC3E": " ",
-    "B6F5D6B1-E5C5-4258-B9E9-D981AA71BA74": "",
-    "BB62A9A9-F64C-4477-BB9D-E7E71E82478F": " ",
-    "BD7AED17-2D9B-45DA-A37E-91798710CFD3": "  "
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

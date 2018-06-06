@@ -62,16 +62,6 @@
       "value": "AAA 12.99:1"
     }
   ],
-  "overrides": {
-    "0994DC7E-32ED-4724-98F5-FA81BE99D9E3": "222, 92, 35",
-    "47BED492-E28F-4259-AD3A-8098044FD5BE": "7, 32, 89",
-    "4D6622EE-C763-48A6-B88F-74A00FD5D488": {
-      "symbolID": "B32271B3-48E8-4F4B-B989-E86501BE0719"
-    },
-    "7E8ABCC9-4575-4CAA-83F6-E2EB021711EB": "$info",
-    "81E57553-D75A-4B9E-B041-46E6D01F3901": "072059",
-    "A3EB1F7C-FB2A-496A-8C47-71426219491F": "AAA 12.99:1"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
