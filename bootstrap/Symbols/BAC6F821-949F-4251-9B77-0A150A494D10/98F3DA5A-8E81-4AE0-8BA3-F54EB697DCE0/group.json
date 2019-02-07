@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "98F3DA5A-8E81-4AE0-8BA3-F54EB697DCE0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 313,
     "y": 14
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,7 +33,7 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "09597FA7-1B1A-442E-AFEF-EE825397D457"
     },
     {
@@ -34,11 +41,11 @@
       "id": "CF932E40-9772-4AB1-B9E4-4D8911DF00F5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "119B97E1-EF6B-4896-9A74-CCD0784DC5B5"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "76BC33CE-B81D-4100-B634-3128186973E7"
     },
     {
@@ -62,9 +69,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

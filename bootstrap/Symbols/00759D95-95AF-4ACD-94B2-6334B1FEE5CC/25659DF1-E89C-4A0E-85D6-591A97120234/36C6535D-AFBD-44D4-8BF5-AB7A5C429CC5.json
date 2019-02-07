@@ -9,19 +9,17 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9803921568627451,
-            "green": 0.9803921568627451,
-            "red": 0.9803921568627451
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 14
+              "name": "Roboto-Regular",
+              "size": 13
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -35,6 +33,8 @@
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "36C6535D-AFBD-44D4-8BF5-AB7A5C429CC5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,12 +49,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 52,
-    "x": 24,
-    "y": 8
+    "height": 15,
+    "width": 32,
+    "x": 34,
+    "y": 9
   },
-  "glyphBounds": "{{0, 3}, {50, 10}}",
+  "glyphBounds": "{{1, 2}, {30, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "36C6535D-AFBD-44D4-8BF5-AB7A5C429CC5",
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,29 +73,26 @@
   "style": {
     "_class": "style",
     "do_objectID": "CF26ED46-222B-40D5-A5E6-A13A74A0F606",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "CE3A3EF7-E24D-4721-AA48-BA1EA2045A8F",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9803921568627451,
-          "red": 0.9803921568627451
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 14
+            "name": "Roboto-Regular",
+            "size": 13
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -101,14 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

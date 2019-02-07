@@ -16,15 +16,13 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 14
+              "name": "Roboto-Medium",
+              "size": 13
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -35,6 +33,8 @@
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "C9C49610-E5AE-451B-BE88-73A91117E3E0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,12 +49,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 52,
-    "x": 12,
-    "y": 10
+    "height": 15,
+    "width": 32,
+    "x": 0,
+    "y": 4
   },
-  "glyphBounds": "{{0, 3}, {50, 10}}",
+  "glyphBounds": "{{0, 2}, {31, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,19 +64,19 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "C9C49610-E5AE-451B-BE88-73A91117E3E0",
   "resizingConstraint": 43,
   "resizingType": 1,
   "rotation": 0,
+  "sharedStyleID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "39B138AF-B008-4798-B7E1-880436E9D6F4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "A881109B-39D0-4A66-8D5F-2FE918C8BCBC",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -88,20 +90,19 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 14
+            "name": "Roboto-Medium",
+            "size": 13
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

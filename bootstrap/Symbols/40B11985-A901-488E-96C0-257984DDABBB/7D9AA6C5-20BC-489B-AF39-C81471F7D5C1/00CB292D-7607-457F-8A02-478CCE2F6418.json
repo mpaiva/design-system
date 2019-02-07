@@ -40,6 +40,8 @@
     "string": "placehoder"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "00CB292D-7607-457F-8A02-478CCE2F6418",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +62,8 @@
     "y": 8
   },
   "glyphBounds": "{{1, 3}, {74, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,7 +71,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "placehoder",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "00CB292D-7607-457F-8A02-478CCE2F6418",
   "resizingConstraint": 11,
   "resizingType": 1,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "854089C6-78EE-442D-BBDA-38CB6F588E63",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -16,25 +16,55 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "Roboto-Medium",
               "size": 14
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
+          "kerning": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Medium",
+              "size": 14
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 1,
+        "location": 4
       }
     ],
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "55373B82-5B8B-459B-B612-91C94A0C320B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,11 +80,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 52,
-    "x": 24,
+    "width": 46,
+    "x": 27,
     "y": 8
   },
-  "glyphBounds": "{{0, 3}, {50, 10}}",
+  "glyphBounds": "{{1, 3}, {45, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,19 +94,18 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "55373B82-5B8B-459B-B612-91C94A0C320B",
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4AF08F0B-A5B6-4AB6-B389-33BCC0E2EC51",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "186530A3-9336-4A96-AED8-4A4605984CF3",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -88,12 +119,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "Roboto-Medium",
             "size": 14
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
+        "kerning": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -101,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

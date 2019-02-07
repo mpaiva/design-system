@@ -40,6 +40,8 @@
     "string": "Jumbotron"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "435191F1-9CB6-4E35-A58A-3FB683827903",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -62,6 +64,8 @@
     "y": 623
   },
   "glyphBounds": "{{1, 11}, {325, 49}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,14 +77,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9E7DF7C9-F9F7-4019-99D3-D84A9B568199",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "07022311-559F-45D8-B4FD-DFCF43210C31",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9E7DF7C9-F9F7-4019-99D3-D84A9B568199",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "0B5D9F67-B33F-419A-872B-D0F6216372EC",
@@ -113,7 +117,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -38,6 +38,8 @@
     "string": "Sub-heading"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "7B88DE25-879E-4CEB-A21C-A30B4C280B90",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +62,8 @@
     "y": 691
   },
   "glyphBounds": "{{1, 5}, {103, 18}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,14 +75,14 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E0A69DE2-54A1-4657-BBAE-8864FEB2C5A6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "07A4F57F-D88B-43D0-B470-3D2FFCB49224",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "E0A69DE2-54A1-4657-BBAE-8864FEB2C5A6",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "DFF8D898-C5B0-4198-A61F-27DCC6F3CEEF",
@@ -109,7 +113,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

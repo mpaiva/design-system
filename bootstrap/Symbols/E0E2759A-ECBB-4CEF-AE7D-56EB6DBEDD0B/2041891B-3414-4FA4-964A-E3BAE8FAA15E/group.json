@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2041891B-3414-4FA4-964A-E3BAE8FAA15E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +20,12 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,11 +33,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "16B94402-BFB4-4043-9D48-375D6A24627A"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "2B7ED5BE-2C6C-4C5C-A656-773660D23493"
     },
     {
@@ -38,11 +45,11 @@
       "id": "825A3501-2F8C-4908-AC22-93F235141DC3"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C160F9AA-A31C-4494-B993-15D4F5038845"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "59CE2AA1-F332-4543-8E13-97C7B3BBF8E0"
     },
     {
@@ -82,9 +89,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

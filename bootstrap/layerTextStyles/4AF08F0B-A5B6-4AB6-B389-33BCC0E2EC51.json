@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "4AF08F0B-A5B6-4AB6-B389-33BCC0E2EC51",
-  "name": "labels/label-dark-sm",
+  "name": "label-dark-sm",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "4AF08F0B-A5B6-4AB6-B389-33BCC0E2EC51",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -34,6 +33,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

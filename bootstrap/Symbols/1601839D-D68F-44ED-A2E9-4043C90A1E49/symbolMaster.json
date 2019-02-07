@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 128,
+  "booleanOperation": 0,
+  "changeIdentifier": 79,
+  "clippingMaskMode": 0,
   "do_objectID": "1601839D-D68F-44ED-A2E9-4043C90A1E49",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 24,
     "width": 80,
-    "x": 1750,
-    "y": 372
+    "x": 602,
+    "y": 496
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +43,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -52,6 +59,28 @@
   "name": "buttons/xs/info",
   "nameIsFixed": true,
   "originalObjectID": "1601839D-D68F-44ED-A2E9-4043C90A1E49",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "415612E3-951E-45E3-834C-2DC10BB9AE45_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "66BE411E-C0EC-491A-8F3A-DE45968655C3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "415612E3-951E-45E3-834C-2DC10BB9AE45_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "66BE411E-C0EC-491A-8F3A-DE45968655C3_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,15 +88,19 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "90909EA8-6BCA-49DA-AC9A-C7D20B590A91",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

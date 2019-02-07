@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 104,
+  "booleanOperation": 0,
+  "changeIdentifier": 60,
+  "clippingMaskMode": 0,
   "do_objectID": "9E06E7F4-54A6-426D-94A8-767B5B343E8D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 36,
     "width": 150,
-    "x": 1100,
-    "y": 408
+    "x": 1102,
+    "y": 272
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,12 +43,13 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -52,6 +59,23 @@
   "name": "buttons/md/center/info",
   "nameIsFixed": true,
   "originalObjectID": "9E06E7F4-54A6-426D-94A8-767B5B343E8D",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24528C4B-D32E-4FA6-98D3-A139617B385F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24528C4B-D32E-4FA6-98D3-A139617B385F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9577D566-AF6C-4311-B7EB-F84DB30B2F0F_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,9 +83,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "C62F2684-CCD4-4DC5-B6F4-994B4CFF50AE",
   "userInfo": {

@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 266,
+  "booleanOperation": 0,
+  "changeIdentifier": 264,
+  "clippingMaskMode": 0,
   "do_objectID": "94456659-AA67-47A5-B55B-2C6CAC31B23D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 200,
     "width": 200,
-    "x": 3320,
-    "y": 600
+    "x": 7994,
+    "y": 900
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,12 +43,13 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -51,6 +58,13 @@
   ],
   "name": "colors/functional/disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2EFFEEF1-EA16-4332-AEE9-A132EFE7D8DC_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,9 +72,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "F9452C46-D2C3-497C-8B12-9E28172B18AF",
   "userInfo": {

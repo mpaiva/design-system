@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -15,7 +19,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "5C94C6CB-E4D1-4CF8-B10B-FDF1DC22AC3B",
+  "do_objectID": "f3ec81c0-2410-11e8-a01b-89a59faeb841",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -28,9 +32,9 @@
     ]
   },
   "meta": {
-    "appVersion": "50.2",
-    "build": 55047,
-    "version": 103
+    "appVersion": "53",
+    "build": 72520,
+    "version": 116
   },
   "pages": [
     "Page 1",

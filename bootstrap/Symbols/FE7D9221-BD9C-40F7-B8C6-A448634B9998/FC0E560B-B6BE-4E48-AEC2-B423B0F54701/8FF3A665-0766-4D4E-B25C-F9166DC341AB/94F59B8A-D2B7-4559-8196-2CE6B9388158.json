@@ -40,6 +40,8 @@
     "string": "label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "94F59B8A-D2B7-4559-8196-2CE6B9388158",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +62,8 @@
     "y": 1
   },
   "glyphBounds": "{{0, 3}, {32, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,7 +71,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "94F59B8A-D2B7-4559-8196-2CE6B9388158",
   "resizingConstraint": 11,
   "resizingType": 1,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "A12E5189-0389-4556-882D-B9635E16FB86",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

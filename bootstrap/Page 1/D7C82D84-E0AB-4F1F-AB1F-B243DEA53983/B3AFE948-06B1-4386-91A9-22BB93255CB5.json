@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -41,9 +41,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -73,9 +73,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -105,9 +105,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -137,9 +137,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -169,9 +169,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -201,9 +201,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -233,9 +233,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -265,9 +265,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -297,9 +297,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -329,9 +329,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -361,9 +361,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2901572585105896,
+            "green": 0.290214329957962,
+            "red": 0.290167510509491
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -391,6 +391,8 @@
     "string": "▸ Select the 🎨 layer\n▸ Press Control+C to pick your test color from the pallete\n▸ Run Stark Contrast plugin\n▸ Fill the ●●● with the ratio results in the pallete symbol"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "B3AFE948-06B1-4386-91A9-22BB93255CB5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -413,6 +415,8 @@
     "y": 1843
   },
   "glyphBounds": "{{2, 3}, {355, 95}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -424,22 +428,22 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8790007829666138,
-          "green": 0.06114692240953445,
-          "red": 0.7398750185966492
+          "blue": 0.2901572585105896,
+          "green": 0.290214329957962,
+          "red": 0.290167510509491
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -461,7 +465,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

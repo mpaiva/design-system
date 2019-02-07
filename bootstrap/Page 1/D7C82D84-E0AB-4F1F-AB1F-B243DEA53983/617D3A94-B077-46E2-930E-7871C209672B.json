@@ -39,6 +39,8 @@
     "string": "TABLET - LEFT MENU COLLAPSED"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "617D3A94-B077-46E2-930E-7871C209672B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 4123
   },
   "glyphBounds": "{{0, 6}, {467, 23}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,18 +72,18 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "TABLET - LEFT MENU C",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1ECA8320-CED9-4FC3-A7B3-EE22E4113738",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "873104AB-8E77-4CC4-97D5-B864FF51E5F4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1ECA8320-CED9-4FC3-A7B3-EE22E4113738",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "93B6A0B1-7DDE-44A7-A5D3-5CA334D4F8E0",
@@ -111,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

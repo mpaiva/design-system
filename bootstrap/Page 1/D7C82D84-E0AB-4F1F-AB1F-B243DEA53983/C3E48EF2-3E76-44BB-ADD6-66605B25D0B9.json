@@ -40,6 +40,8 @@
     "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh urna, feugiat non arcu vitae, rhoncus mollis urna. Quisque pellentesque, lacus et gravida sollicitudin, lacus turpis hendrerit eros elit."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "C3E48EF2-3E76-44BB-ADD6-66605B25D0B9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -62,6 +64,8 @@
     "y": 754
   },
   "glyphBounds": "{{1, 7}, {314, 197}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,14 +77,14 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "20533606-2B55-460D-A16D-7EE6A93881E5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "73434D8E-C344-47DA-ABE1-152B7E5BB83E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "20533606-2B55-460D-A16D-7EE6A93881E5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "C3D2A12D-2657-468F-8EBA-57AF07229F32",
@@ -113,7 +117,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

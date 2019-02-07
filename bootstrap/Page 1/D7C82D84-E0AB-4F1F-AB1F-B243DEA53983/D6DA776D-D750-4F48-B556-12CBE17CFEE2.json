@@ -39,6 +39,8 @@
     "string": "FONT AWESOME STYLES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D6DA776D-D750-4F48-B556-12CBE17CFEE2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1455
   },
   "glyphBounds": "{{1, 6}, {341, 23}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,18 +72,18 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "FONT AWESOME STYLES",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "1ECA8320-CED9-4FC3-A7B3-EE22E4113738",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "12907B0A-1683-4A17-B720-AB7240E11CD8",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1ECA8320-CED9-4FC3-A7B3-EE22E4113738",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "85B20C48-5430-4CD4-A7E3-AE054B9ABF5E",
@@ -111,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

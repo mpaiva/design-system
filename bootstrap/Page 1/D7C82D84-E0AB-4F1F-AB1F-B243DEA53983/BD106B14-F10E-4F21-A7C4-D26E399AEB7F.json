@@ -39,6 +39,8 @@
     "string": "This is an example of primary text."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "BD106B14-F10E-4F21-A7C4-D26E399AEB7F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1306
   },
   "glyphBounds": "{{0, 2}, {217, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,18 +72,18 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "This is an example o",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "01F17D42-DAD2-4F9E-8BB3-36428D7B7532",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3BFF7B48-213B-4D99-AC5D-329B3F5960B6",
@@ -111,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

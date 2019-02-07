@@ -1,0 +1,234 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "119B97E1-EF6B-4896-9A74-CCD0784DC5B5",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 100,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 34.00000000000001,
+    "width": 34.00000000000001,
+    "x": 311,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "avatar",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 20,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8705882352941177,
+          "green": 0.8549019607843137,
+          "red": 0.8196078431372549
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/3821ab2d4d03b00d2805ca685aeee2b19eaccc20.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 34,
+            "enabled": 1,
+            "modelID": "constraint_1a14c04c-0648-4bbb-9866-7966e490318e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 34
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2d938870-6a33-4b5a-9fc4-1e909238aa9a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq1q67TSH56Tw8CGX7Jf9SAJLub3LKOUWz9_FXj0k-OALvIBOS7RqHF9a_",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQll-33Gpjyu-EnGm7ofmx72sBoS283r6I9lbMl7nJyKLDyN6X4S2c4JBw",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt6khXUCKY8wWKYXuXEjBgQC1L-q5dFeaBRrJUOAqMgv_DbqiO_thj7lHQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpA0wi4l_tqCMI1O3B8dYXjR_2TDMmejPVKlDKI339AST7njGkFVgzpb0",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6NVBq_sMV_8aitBfsYlGVPWBdYMlw6tMn0f5AEo-T7Z_9ANeUjv8WrBiP",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2138uEoFF5CC4kXvb3206wp-NCKC1YkeFbIooswR9wmqNypRBG1_9-jmN",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7mFSbuEW9qNXOMOXCznfrqXvHbVgoOBPKUrFehpcmqHrLL-VTFIXsQ2t7",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsC189X5nwfY9hUvqM1nBy3vgfhwljL2kEH2ghDeygeVneeydsAN9-Km35",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVO0s6yegxZCySqVR0Gj54XSKf_rILDilNes31ymNXkzvQdJquwvbiYw",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgTWE_IwyM5OzZ9sSH8yHCOVdWQhgP_eDLfVyIo8Vz11aDIjpFH8V7Q",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPqlCcumxf5875dOktTowkbQj9SfKULYxCwsZzkT90I50VXTv3-x68AQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8rTBDoJcSeYrOy9gHoZjuanYGnMIiU3U2wfiQarbU1SJ4hKOyI9pdxk",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7IYir9Oy3wuBxcTGzbv9XojOrrnZCZMiJXI7Bps0brDrzNa9zlZq1Mhfy",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTEu7D98fbqmsVJLFXq5YSeE0eZujwWKfxk8lB-mXyBKfnPREcLEFRmI",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWVfWkXYmPj8PAl6Jc7zoMKHQ03Q0qfwHGH1WzZjuE-vIWT6Fzhsd5WI0",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTROya1_7xd6HZ2TBCxQdqcjSN-_Wn2lCJxghuUKj2rHHsYENiLr8ud5x8",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkDRAEhQzNd1IuUNzMRuvtxoxbGZYQ9wLcDMuOSu6hbHDHNmlGUEtTPB8",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkXv2McXjyKw3fZ_X23qojGvXG3eBFeOBkFlKOaXK3mbKp01F54SXdx-o",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYcMIqBV2vZY96l8paPu6vpUts08CEgc-IXfkkEyHUMcN1zuD8kL71lQ",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

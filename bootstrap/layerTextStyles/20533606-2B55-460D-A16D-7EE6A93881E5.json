@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "20533606-2B55-460D-A16D-7EE6A93881E5",
-  "name": "headings/jumbotron.p",
+  "name": "jumbotron.p",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "20533606-2B55-460D-A16D-7EE6A93881E5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -39,6 +38,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

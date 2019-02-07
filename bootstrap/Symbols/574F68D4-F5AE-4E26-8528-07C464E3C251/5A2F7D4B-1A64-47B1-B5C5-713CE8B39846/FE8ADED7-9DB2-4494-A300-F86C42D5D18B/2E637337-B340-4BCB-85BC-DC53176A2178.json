@@ -40,6 +40,8 @@
     "string": "Home"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2E637337-B340-4BCB-85BC-DC53176A2178",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,6 +62,8 @@
     "y": 0
   },
   "glyphBounds": "{{1, 3}, {39, 12}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,7 +71,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Home",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "2E637337-B340-4BCB-85BC-DC53176A2178",
   "resizingConstraint": 43,
   "resizingType": 1,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "6EA5D2AA-C011-4C9A-BD2B-8CF21590EC0E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

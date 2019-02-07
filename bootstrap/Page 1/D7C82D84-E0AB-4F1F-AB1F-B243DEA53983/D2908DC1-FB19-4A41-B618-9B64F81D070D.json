@@ -39,6 +39,8 @@
     "string": "Lorem ipsum eget urna mollis ornare vel eu leo. Cum sociisnatoque penatibus et magnis dis parturient montes, code nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed euismod aliquet sapien consequat tincidunt.\nBut I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D2908DC1-FB19-4A41-B618-9B64F81D070D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1882
   },
   "glyphBounds": "{{0, 2}, {682, 99}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,7 +72,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Lorem ipsum eget urn",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "FDCF29EC-8471-4D88-B985-2834288F0901",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BDAFFE83-406E-46D9-B97D-0E1923B21434",
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

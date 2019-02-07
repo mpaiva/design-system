@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
-  "name": "labels/label-dark",
+  "name": "label-dark",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -21,12 +20,10 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 14
+            "name": "Roboto-Medium",
+            "size": 13
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -34,6 +31,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

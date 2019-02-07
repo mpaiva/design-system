@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
-  "name": "utils/p",
+  "name": "p",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2883EAAF-5CEC-4A82-AE40-DB06D2F5639D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -38,6 +37,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

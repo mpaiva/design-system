@@ -16,12 +16,10 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 14
+              "name": "Roboto-Medium",
+              "size": 13
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -35,6 +33,8 @@
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "751D949E-5DE3-4B9E-B0AB-FFDC466A3ECC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,12 +49,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 52,
-    "x": 49,
+    "height": 15,
+    "width": 32,
+    "x": 58,
     "y": 10
   },
-  "glyphBounds": "{{0, 3}, {50, 10}}",
+  "glyphBounds": "{{0, 2}, {31, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,19 +64,19 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "751D949E-5DE3-4B9E-B0AB-FFDC466A3ECC",
   "resizingConstraint": 47,
   "resizingType": 1,
   "rotation": 0,
+  "sharedStyleID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "5D2E89B4-971F-4BCD-AF5F-EB59364DB86B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2B62A16B-729B-4A43-AF4C-6A747FB53B20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -88,12 +90,10 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 14
+            "name": "Roboto-Medium",
+            "size": 13
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -101,7 +101,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

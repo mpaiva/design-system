@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 113,
+  "booleanOperation": 0,
+  "changeIdentifier": 131,
+  "clippingMaskMode": 0,
   "do_objectID": "3CD64B8A-9474-4EAD-9AA9-5EA21DA323FD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 22,
     "width": 22,
-    "x": 5773,
-    "y": 0
+    "x": 100,
+    "y": 244
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,15 +43,16 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5AA74565-C0DA-40F9-B82D-6A76107DD3B2"
     },
     {
@@ -56,6 +63,23 @@
   "name": "forms/radio/checked",
   "nameIsFixed": false,
   "originalObjectID": "3CD64B8A-9474-4EAD-9AA9-5EA21DA323FD",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "152285CF-0F72-4DD8-9AF1-DD31996831CD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AA74565-C0DA-40F9-B82D-6A76107DD3B2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5AA74565-C0DA-40F9-B82D-6A76107DD3B2_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,15 +87,19 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "ED159524-2D19-4412-95C8-1F78461C2176",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

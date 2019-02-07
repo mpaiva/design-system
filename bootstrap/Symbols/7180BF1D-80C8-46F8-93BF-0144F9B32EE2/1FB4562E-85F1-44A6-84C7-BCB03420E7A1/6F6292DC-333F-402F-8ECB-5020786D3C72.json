@@ -38,6 +38,8 @@
     "string": "Card Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6F6292DC-333F-402F-8ECB-5020786D3C72",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,6 +60,8 @@
     "y": 16.26096346502345
   },
   "glyphBounds": "{{0, 2}, {75, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,14 +74,14 @@
   "resizingConstraint": 43,
   "resizingType": 1,
   "rotation": 0,
+  "sharedStyleID": "1935591E-51AA-477A-BBEC-D8D3B795D146",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "C4023C41-75DF-482B-AA2E-594EAB66C9E9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "1935591E-51AA-477A-BBEC-D8D3B795D146",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -107,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

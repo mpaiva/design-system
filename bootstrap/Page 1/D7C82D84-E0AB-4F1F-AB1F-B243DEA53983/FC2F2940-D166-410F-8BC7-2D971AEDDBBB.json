@@ -40,6 +40,8 @@
     "string": "Inline Italics - Cum sociisnatoque "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FC2F2940-D166-410F-8BC7-2D971AEDDBBB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -62,6 +64,8 @@
     "y": 2051
   },
   "glyphBounds": "{{-1, 4}, {224, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,7 +73,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Inline Italics - Cum",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -77,9 +81,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "8C6C9DB0-B4AD-4A65-B3D4-4913287498DB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B7166A96-DEC0-411E-94FF-C448272AE5D2",
@@ -112,7 +116,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

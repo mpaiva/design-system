@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 372,
+  "booleanOperation": 0,
+  "changeIdentifier": 371,
+  "clippingMaskMode": 0,
   "do_objectID": "91980DE4-6AC9-4ED8-B8AF-F9C8B7598700",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 51,
     "width": 400,
-    "x": 7542,
-    "y": 451
+    "x": 3729,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +43,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -52,6 +59,43 @@
   "name": "navbar/breadcrumbs-L4",
   "nameIsFixed": true,
   "originalObjectID": "91980DE4-6AC9-4ED8-B8AF-F9C8B7598700",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9B0243C6-DBE4-4FFD-BD2E-AAA0A869DD28_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3C073CD4-4203-486F-97C8-754AC0C75763_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "91B75F77-8C06-4412-89D1-10FCB2F98A38_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9150B762-5651-4767-8AC8-D26D03D7BA35_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "698299D4-CF1F-4874-BB6E-B77432746706_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3C073CD4-4203-486F-97C8-754AC0C75763_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F58DD31E-1ECA-48F6-AE7B-17ED4807AE69_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,9 +103,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "52134F8C-2159-4CBC-AD6F-EEAA1CE74BC2",
   "userInfo": {

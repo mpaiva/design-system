@@ -7,7 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 424,
+  "booleanOperation": 0,
+  "changeIdentifier": 422,
+  "clippingMaskMode": 0,
   "do_objectID": "A6A30757-9B61-4C32-BC1A-F1BB92981664",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 50,
     "width": 620,
-    "x": 2030,
-    "y": 479
+    "x": 6250,
+    "y": 329
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,6 +43,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -52,6 +59,38 @@
   "name": "cards/header-collapse",
   "nameIsFixed": true,
   "originalObjectID": "A6A30757-9B61-4C32-BC1A-F1BB92981664",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0B02D167-6EC7-4D4F-84C0-AC8C7C8BA0C8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B05E5D1C-A0F8-4A4A-8074-40D9935DB02E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B05E5D1C-A0F8-4A4A-8074-40D9935DB02E_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0B02D167-6EC7-4D4F-84C0-AC8C7C8BA0C8_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B77DA0E4-85B1-43B2-B57E-69869E6137A1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "395B8217-EB41-4A26-BFAA-CAE234D5CCE1_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,9 +98,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "2DB01E48-1890-4CA4-82AA-8CBDDD26CDB0",
   "userInfo": {

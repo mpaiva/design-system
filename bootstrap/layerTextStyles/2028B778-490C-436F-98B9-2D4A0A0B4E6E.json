@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "2028B778-490C-436F-98B9-2D4A0A0B4E6E",
-  "name": "utils/body",
+  "name": "body",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2028B778-490C-436F-98B9-2D4A0A0B4E6E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -35,6 +34,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

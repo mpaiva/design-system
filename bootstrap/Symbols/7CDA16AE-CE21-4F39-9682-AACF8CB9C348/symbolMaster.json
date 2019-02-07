@@ -7,7 +7,9 @@
     "green": 0.6922554347826089,
     "red": 0
   },
-  "changeIdentifier": 189,
+  "booleanOperation": 0,
+  "changeIdentifier": 187,
+  "clippingMaskMode": 0,
   "do_objectID": "7CDA16AE-CE21-4F39-9682-AACF8CB9C348",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +25,15 @@
     "constrainProportions": false,
     "height": 26,
     "width": 40,
-    "x": 260,
-    "y": 126
+    "x": 2220,
+    "y": 532
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -37,12 +43,13 @@
   "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -52,6 +59,8 @@
   "name": "brand/logo-dark",
   "nameIsFixed": true,
   "originalObjectID": "7CDA16AE-CE21-4F39-9682-AACF8CB9C348",
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,7 +68,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -79,7 +88,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "516FC45B-29D8-45F7-BD90-FEE22A1F9F5B",
   "userInfo": {

@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "69CABF15-7C53-4C11-92D3-831D670318A2",
-  "name": "headings/h4-small",
+  "name": "h4-small",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "69CABF15-7C53-4C11-92D3-831D670318A2",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -38,6 +37,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

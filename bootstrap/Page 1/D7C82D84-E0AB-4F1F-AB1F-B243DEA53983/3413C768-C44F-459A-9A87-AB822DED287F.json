@@ -39,6 +39,8 @@
     "string": "This is an example of warning text."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3413C768-C44F-459A-9A87-AB822DED287F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1306
   },
   "glyphBounds": "{{0, 2}, {219, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,7 +72,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "This is an example o",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "40B3A642-7C1B-402A-A025-2623129BC637",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F0B20815-3370-49A9-8718-5FE3D23CF486",
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

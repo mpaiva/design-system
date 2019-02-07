@@ -41,6 +41,8 @@
     "string": "data\ndata\ndata\ndata\ndata"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "4BF4524D-7FF5-413C-8ECF-5A80D9BE3B96",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 55
   },
   "glyphBounds": "{{0, 2}, {29, 217}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,13 +76,13 @@
   "resizingConstraint": 14,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9F62D276-BFC3-4634-B8AA-45AE674250DB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "9F62D276-BFC3-4634-B8AA-45AE674250DB",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -111,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {

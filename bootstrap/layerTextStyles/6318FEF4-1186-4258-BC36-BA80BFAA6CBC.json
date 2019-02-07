@@ -1,13 +1,12 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "6318FEF4-1186-4258-BC36-BA80BFAA6CBC",
-  "name": "headings/h4",
+  "name": "h4",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "6318FEF4-1186-4258-BC36-BA80BFAA6CBC",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -38,6 +37,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

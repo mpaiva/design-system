@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8790007829666138,
-            "green": 0.06114692240953445,
-            "red": 0.7398750185966492
+            "blue": 0.2745098039215687,
+            "green": 0.2196078431372549,
+            "red": 0.1647058823529411
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -39,6 +39,8 @@
     "string": "Testing contrast accessibility with Stark"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "6BD6154C-3EAF-408E-8C27-4A7997F50C4E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1823
   },
   "glyphBounds": "{{0, 2}, {302, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,23 +76,23 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "FD139C6A-F4A7-4383-B192-CC58A8E2B7F1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "432CD065-9A25-4219-B2D3-9F2C787B3BBA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "FD139C6A-F4A7-4383-B192-CC58A8E2B7F1",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8790007829666138,
-          "green": 0.06114692240953445,
-          "red": 0.7398750185966492
+          "blue": 0.2745098039215687,
+          "green": 0.2196078431372549,
+          "red": 0.1647058823529411
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

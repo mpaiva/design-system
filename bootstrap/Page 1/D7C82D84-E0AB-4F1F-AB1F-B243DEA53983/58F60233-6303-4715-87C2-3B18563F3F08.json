@@ -39,6 +39,8 @@
     "string": "This is an example of danger text."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "58F60233-6303-4715-87C2-3B18563F3F08",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -61,6 +63,8 @@
     "y": 1366
   },
   "glyphBounds": "{{0, 2}, {213, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,7 +72,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "This is an example o",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -76,9 +80,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "F6B485F3-3A8D-4F09-9B7E-0AD1D7457B0A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3F11B22A-8F3A-4922-9AFD-B94B45E5E569",
@@ -110,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

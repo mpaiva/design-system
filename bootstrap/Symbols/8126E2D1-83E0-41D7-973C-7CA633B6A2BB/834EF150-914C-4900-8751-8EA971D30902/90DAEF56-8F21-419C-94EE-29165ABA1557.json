@@ -16,12 +16,10 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "Roboto-Regular",
               "size": 20
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -35,6 +33,8 @@
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "90DAEF56-8F21-419C-94EE-29165ABA1557",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,11 +50,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 70,
-    "x": 44.5,
+    "width": 49,
+    "x": 55,
     "y": 19
   },
-  "glyphBounds": "{{1, 4}, {66, 15}}",
+  "glyphBounds": "{{1, 4}, {46, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Label",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "originalObjectID": "90DAEF56-8F21-419C-94EE-29165ABA1557",
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,10 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "459A83C2-708B-45A4-AEBA-B7AE04C72030",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "996A99D0-B998-403E-B2ED-70C99DB70093",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -88,12 +89,10 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "Roboto-Regular",
             "size": 20
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -101,14 +100,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }
